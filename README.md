@@ -22,4 +22,3 @@
 
   *   **Simplified Access:** All features are pre-configured, eliminating the need for users to manage or provide API keys or credentials. 
  
-  Note:By using the Website, you acknowledge that you have read these Terms of Service and agree to be bound by them.
