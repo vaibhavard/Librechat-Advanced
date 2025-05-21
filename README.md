@@ -1,6 +1,6 @@
 # <center> 🌟 Librechat-Advanced 🌟</center>
 
-[![Visit website](https://img.shields.io/badge/Visit-Websitee%20-red?style=for-the-badge&logo=github)](rebrand.ly/librechat-v)
+[![Visit website](https://img.shields.io/badge/Visit-Websitee%20-red?style=for-the-badge&logo=github)](https://rebrand.ly/librechat-v)
 
 🤖 **Librechat-Advanced** is an enhanced, independently developed iteration of LibreChat, designed as a robust and feature-rich alternative to OpenAI’s ChatGPT. Built as a personal passion project, this platform leverages the Model Context Protocol to deliver advanced capabilities for developers, researchers, and professionals.
 
@@ -47,7 +47,7 @@ Specialized agents to streamline workflows:
 - 🚀 **No Setup Required**: All features pre-configured (no API keys/infrastructure hassle).  
 - ⚡ **Instant Access**: Begin using advanced AI tools post-registration.  
 
-**Register Now**: [👉 Librechat-Advanced Login](rebrand.ly/librechat-v)  
+**Register Now**: [👉 Librechat-Advanced Login](https://rebrand.ly/librechat-v)  
 
 ### 💡 Acknowledgments  
 This project builds on [LibreChat](https://github.com/danny-avila/LibreChat) by Danny Avila.  
