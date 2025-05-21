@@ -47,7 +47,7 @@ Specialized agents to streamline workflows:
 - 🚀 **No Setup Required**: All features pre-configured (no API keys/infrastructure hassle).  
 - ⚡ **Instant Access**: Begin using advanced AI tools post-registration.  
 
-**Register Now**: [👉 Librechat-Advanced Login](https://akiko19191-librechat-advanced.hf.space/login)  
+**Register Now**: [👉 Librechat-Advanced Login](rebrand.ly/librechat-v)  
 
 ### 💡 Acknowledgments  
 This project builds on [LibreChat](https://github.com/danny-avila/LibreChat) by Danny Avila.  
