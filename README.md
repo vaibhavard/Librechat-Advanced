@@ -1,6 +1,6 @@
 # <center> 🌟 Librechat-Advanced 🌟</center>
 
-[![Visit website](https://img.shields.io/badge/Visit-Websitee%20-red?style=for-the-badge&logo=github)](https://akiko19191-librechat-advanced.hf.space/login)
+[![Visit website](https://img.shields.io/badge/Visit-Websitee%20-red?style=for-the-badge&logo=github)](rebrand.ly/librechat-v)
 
 🤖 **Librechat-Advanced** is an enhanced, independently developed iteration of LibreChat, designed as a robust and feature-rich alternative to OpenAI’s ChatGPT. Built as a personal passion project, this platform leverages the Model Context Protocol to deliver advanced capabilities for developers, researchers, and professionals.
 
